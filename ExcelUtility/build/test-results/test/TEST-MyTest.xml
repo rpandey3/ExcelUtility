@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-14T09:54:51" hostname="VARNIKA-PC" time="1.089">
+  <properties/>
+  <testcase name="insertIntoExcel" classname="MyTest" time="0.883"/>
+  <testcase name="displayDataFromExcel" classname="MyTest" time="0.071"/>
+  <testcase name="updateIntoExcel" classname="MyTest" time="0.133"/>
+  <system-out><![CDATA[4 columns(s) affected
+Insert Into Excel Done
+FirstName1|LastName1|fn1@test.com|7812345678
+FirstName2|LastName2|fn2@test.com|7812345679
+FirstName3|LastName3|fn3@test.com|7812345680
+FirstName4|LastName4|fn4@test.com|7812345681
+FirstName5|LastName5|fn5@test.com|7812345682
+FirstName6|LastName6|fn6@test.com|7812345683
+FirstName7|LastName7|fn7@test.com|7812345684
+FirstName8|LastName8|fn8@test.com|7812345685
+FirstName9|LastName9|fn9@test.com|7812345686
+FirstName10|LastName10|fn10@test.com|7812345687
+FirstName11|LastName11|FirstName11@test.com|1234567890
+1 row(s) affected
+Update Into Excel done
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
