@@ -9,7 +9,8 @@
 .FirstName7|LastName7|fn7@test.com|7812345684
 .FirstName8|LastName8|fn8@test.com|7812345685
 .FirstName9|LastName9|fn9@test.com|7812345686
-1FirstName10|LastName10|fn10@test.com|7812345687
+1FirstName10|LastName10|fn10@test.com|9999999999
+8FirstName11|LastName11|FirstName11@test.com|1234567890
 8FirstName11|LastName11|FirstName11@test.com|1234567890
 1 row(s) affected
 Update Into Excel done

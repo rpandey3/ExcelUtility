@@ -10,7 +10,7 @@ String strQuerySelect="Select * from UserData";
 String strQueryUpdate="Update UserData set Phone='9999999999' where FirstName='FirstName10' ";
 String strQueryInsert="Insert into UserData(FirstName,LastName,Email,Phone) Values('FirstName11','LastName11','FirstName11@test.com','1234567890')";
 Recordset rs;
-String path="D:\\Automation\\ExcelUtility\\resources\\TestData.xlsx";
+String path="C:\\Users\\rpand\\Desktop\\Synechron-ProjectWork\\MSQA\\ExcelUtility\\ExcelUtility\\resources\\TestData.xlsx";
 
     public ExcelUtility() throws FilloException {
     }
